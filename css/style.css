@@ -1,0 +1,18 @@
+.header, .hero, .body, .bar, .footer{
+	background-color: #67D8DA;
+	margin-bottom: 10px;
+
+}
+.bg{
+	background-color: green;
+	min-height: 80px;
+	border: 1px solid black;
+}
+.red{
+	background-color: red;
+	min-height: 80px;
+	border: 1px solid black;
+}
+.card{
+	width: 30%;
+}
